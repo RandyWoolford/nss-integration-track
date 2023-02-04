@@ -7,3 +7,6 @@
 
 ##file paths 
 files.py 
+
+##py_cache files
+__pycache__/
